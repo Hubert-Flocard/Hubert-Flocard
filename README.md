@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hubert-Flocard
-- 👀 I’m interested in  learning pytho, numpy, pandas, Scipy, tenserflow, etc.
+- 👀 I’m interested in  learning python, numpy, pandas, Scipy, tenserflow, etc.
 - 🌱 I’m currently learning at the most basic level
 - 📫 How to reach me  : hubert.flocard@gmail.com
 
